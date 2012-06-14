@@ -23,14 +23,14 @@
     font-weight: normal;
 }
 .paragraph_style_1 {
-    color: #442200;
+    color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: 13px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 26px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -65,6 +65,48 @@
     text-transform: none;
 }
 .paragraph_style_3 {
+    color: #442200;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: #442200;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
     color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 13px;
@@ -85,7 +127,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_6 {
     color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 13px;
@@ -110,7 +152,7 @@
     font-size: 12px;
     line-height: 17px;
 }
-.paragraph_style_5 {
+.paragraph_style_7 {
     color: #3e3e3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 14px;
@@ -189,25 +231,22 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_625_66 {
+.Normal_External_625_76 {
+    position: relative;
+}
+.Normal_External_625_18 {
     position: relative;
 }
 .Normal_External_400_50 {
     position: relative;
 }
+.Normal_External_625_152 {
+    position: relative;
+}
 .Normal_External_400_25 {
     position: relative;
 }
-.Normal_External_400_100 {
-    position: relative;
-}
 .Normal_External_400_83 {
-    position: relative;
-}
-.Normal_External_625_17 {
-    position: relative;
-}
-.Normal_External_625_134 {
     position: relative;
 }
 .Normal_External_625_25 {
@@ -273,11 +312,11 @@
     background: #edece9;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_69_64 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_69_64 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_159_161 {
     position: relative;
