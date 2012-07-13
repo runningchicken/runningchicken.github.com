@@ -65,7 +65,7 @@
     text-transform: none;
 }
 .paragraph_style_3 {
-    color: #4b290e;
+    color: #98330e;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 11px;
     font-style: normal;
@@ -111,27 +111,6 @@
     opacity: 1.00;
 }
 .paragraph_style_5 {
-    color: #98330e;
-    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 11px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_6 {
     color: #9a3611;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 11px;
@@ -152,7 +131,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_6 {
     color: #9d3d16;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 11px;
@@ -257,9 +236,6 @@
     position: relative;
 }
 .Normal_External_317_243 {
-    position: relative;
-}
-.Normal_External_475_60 {
     position: relative;
 }
 .Normal_External_475_25 {
