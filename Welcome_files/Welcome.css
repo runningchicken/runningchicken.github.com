@@ -1,40 +1,40 @@
 .paragraph_style {
     color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 12px;
+    font-size: 13px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 16px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 5px;
     text-align: left;
     text-decoration: none;
-    text-indent: 48px;
+    text-indent: 0px;
     text-transform: none;
 }
 .paragraph_style_1 {
     color: #3f3f3c;
-    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 12px;
+    font-family: 'HoeflerText-Italic', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 13px;
     font-style: italic;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 5px;
     text-align: left;
     text-decoration: none;
     text-indent: 48px;
@@ -83,6 +83,12 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
+}
 .Free_Form {
     color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
@@ -107,10 +113,10 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_443_167 {
+.Normal_External_475_25 {
     position: relative;
 }
-.Normal_External_475_25 {
+.Normal_External_443_183 {
     position: relative;
 }
 .Title {
@@ -163,6 +169,8 @@
 .graphic_image_style_default_5_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 #widget1 a {
     color: #817b67;

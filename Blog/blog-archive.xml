@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://bylochacon.com/Running_Chicken/Blog</link>
+    <description>This is where we will post updates, funding requests and copies of pertinent documents here in addition to related news.  </description>
+    <item>
+      <title>Why Two Blogs?</title>
+      <link>http://bylochacon.com/Running_Chicken/Blog/Entries/2012/7/16_Why_Two_Blogs.html</link>
+      <guid isPermaLink="false">f4f76c32-d302-4b45-9458-6622082bf343</guid>
+      <pubDate>Mon, 16 Jul 2012 16:11:32 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/Running_Chicken/Blog/Entries/2012/7/16_Why_Two_Blogs.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>From Globaleyes to Running Chicken</title>
+      <link>http://bylochacon.com/Running_Chicken/Blog/Entries/2012/6/4_From_Globaleyes_to_Running_Chicken.html</link>
+      <guid isPermaLink="false">3554ac98-2cee-42f3-8822-1fee3ec7b8e2</guid>
+      <pubDate>Mon, 4 Jun 2012 16:15:18 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/Running_Chicken/Blog/Entries/2012/6/4_From_Globaleyes_to_Running_Chicken.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://bylochacon.com/Running_Chicken/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

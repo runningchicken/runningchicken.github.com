@@ -114,6 +114,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
@@ -256,6 +260,10 @@
     opacity: 1.00;
 }
 .graphic_image_style_default_3_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_4_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }

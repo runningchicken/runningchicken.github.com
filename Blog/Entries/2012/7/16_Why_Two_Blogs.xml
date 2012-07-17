@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="41E6D9B6-13BA-4935-ADEA-6655DA9A42E8">
+  <lastEdited clientType="local-build-20120716" date="2012-07-17 02:05:57 +0000"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Why_Two_Blogs_files/shapeimage_3.jpg" left="0px" top="0px" width="585px" height="292px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In our attempt to be transparent, while still having all the technical skills of a history teacher, we have decided that the easiest, cleanest way to be transparent is to archive all of our old documents, discussions, meeting notes, and emails to a single Transparency blog.  Information updates will happen on a sporadic basis by Jessica Chacon.&#xD;&#xD;The second one will be focused on updates and news.  It will be written roughly twice a week by Catherine Leys.  (Clearly these first two entries were written by Jessica.)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Why Two Blogs?</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, July 16, 2012</richText>
+  </textBox>
+</content>
