@@ -1,9 +1,9 @@
 .paragraph_style {
-    color: #592c09;
+    color: #452207;
     font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 12px;
     font-style: normal;
-    font-variant: normal;
+    font-variant: small-caps;
     font-weight: bold;
     letter-spacing: 0;
     line-height: 17px;
@@ -20,6 +20,115 @@
     text-transform: none;
 }
 .paragraph_style_1 {
+    color: #7d3e0e;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    font-size: 9px;
+    line-height: 13px;
+}
+.paragraph_style_2 {
+    color: #452207;
+    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: #7d3e0e;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 9px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: #452207;
+    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 9px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: #7d3e0e;
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 5px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_6 {
     color: #7d3e0e;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 12px;
@@ -40,11 +149,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style {
-    color: #3f3f3c;
-    opacity: 1.00;
-}
-.paragraph_style_2 {
+.paragraph_style_7 {
     color: #003333;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 12px;
@@ -65,7 +170,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_8 {
     color: #592c00;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 18px;
@@ -86,10 +191,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
-    opacity: 1.00;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -97,6 +198,10 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 0.50;
+}
+.style_SkipStroke_2 {
+    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    opacity: 1.00;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -115,6 +220,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_7 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_8 {
     background: transparent;
     opacity: 1.00;
 }
@@ -273,7 +382,7 @@
 .graphic_textbox_layout_style_default_External_200_24 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_173_697 {
+.graphic_textbox_layout_style_default_External_183_697 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
