@@ -215,15 +215,15 @@ a:hover {
     color: #0000ff;
     text-decoration: underline;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget1 a {
+    color: #0000ff;
+    text-decoration: underline;
 }
 #widget0 a:hover {
+    color: #0000ff;
+    text-decoration: underline;
+}
+#widget1 a:hover {
     color: #0000ff;
     text-decoration: underline;
 }
@@ -235,7 +235,19 @@ a:hover {
     color: #0000ff;
     text-decoration: underline;
 }
+#widget1 a:visited {
+    color: #0000ff;
+    text-decoration: underline;
+}
 .spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }
