@@ -272,7 +272,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_183_519 {
+.style_External_183_498 {
     position: relative;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
@@ -351,6 +351,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_image_style_default_10_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_image_style_default_2_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -367,22 +371,18 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_image_style_default_6_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.graphic_image_style_default_7_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .graphic_image_style_default_8_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_9_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_183_519 {
+.graphic_textbox_layout_style_default_External_183_498 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
