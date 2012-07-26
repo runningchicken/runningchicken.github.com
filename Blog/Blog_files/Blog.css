@@ -210,6 +210,8 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
 }
+.style_SkipStrokeSkipFillSkipOpacity_2 {
+}
 .Body {
     color: #3f3f3c;
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
@@ -343,6 +345,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_image_style_default_2_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_image_style_default_3_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -355,6 +361,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_image_style_default_6_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
@@ -363,6 +373,8 @@
 }
 .graphic_textbox_layout_style_default_External_173_697 {
     position: relative;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;

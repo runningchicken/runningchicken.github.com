@@ -8,6 +8,8 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
+.style_SkipStrokeSkipFillSkipOpacity_1 {
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -53,10 +55,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_image_style_default_2_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .graphic_image_style_default_3_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -68,6 +66,12 @@
 .graphic_image_style_default_5_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+.graphic_image_style_default_6_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 #widget1 a:visited {
     color: #817b67;

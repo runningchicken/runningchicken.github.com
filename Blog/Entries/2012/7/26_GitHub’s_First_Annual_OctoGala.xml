@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="41E6D9B6-13BA-4935-ADEA-6655DA9A42E8">
+  <lastEdited clientType="local-build-20120726" date="2012-07-26 17:19:36 +0000"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_GitHub%E2%80%99s_First_Annual_OctoGala_files/shapeimage_3.jpg" left="0px" top="0px" width="585px" height="292px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Coming soon . . . Catherine&#x2019;s first blog post and a review of the OctoGala.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>GitHub&#x2019;s First Annual OctoGala</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, July 26, 2012</richText>
+  </textBox>
+</content>
